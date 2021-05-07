@@ -1,7 +1,7 @@
 # djangoVueTemplate
 Best stater template for Django + VueJs
 
-To user this
+To use this
 
 1) clone the repo
 2) cd frontend
